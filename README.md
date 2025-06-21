@@ -2,7 +2,7 @@
 
 <p>
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=435&lines=A+Full-Stack+%26+Mobile+Developer..." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=435&lines=https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Mobile+Developer" alt="Typing SVG" />
  </a>
 </p>
 
@@ -11,14 +11,14 @@
 ## 👩‍💻 **About Me**
 - I'm studying Software Engineering and I also take additional courses, like those from Alura, to expand my knowledge.
 
-- 💼 I am currently working as an intern at a healthcare company.
+- 💼 I am currently working as a web and mobile developer at a healthcare company.
 
 - 📫 How to find me: [**E-mail**](mailto:vitortte@outlook.com) 
 
 ---
 
 ### 🌐 **Sociais**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/vitorbittencourtoliveira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=ffffff&style=for-the-badge)](https://www.linkedin.com/in/vitortte/)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ### 📊 **GitHub Stats**:
 <div align="center">
-  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorBittencourtOliveira&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="VitorBittencourtOliveira" style="max-width: 100%;">
+  <img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitortte&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en&layout=compact" alt="vitortte" style="max-width: 100%;">
   
-  <img align="left" width="396px" src="https://github-readme-stats.vercel.app/api?username=VitorBittencourtOliveira&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="VitorBittencourtOliveira" style="max-width: 100%;">
+  <img align="left" width="396px" src="https://github-readme-stats.vercel.app/api?username=vitortte&show_icons=true&bg_color=0d1117&title_color=00C7C7&text_color=ffffff&icon_color=00C7C7&cache_seconds=1800&locale=en" alt="vitortte" style="max-width: 100%;">
 </div>
