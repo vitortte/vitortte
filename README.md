@@ -54,3 +54,12 @@
 ![DBeaver](https://img.shields.io/badge/DBeaver-5548C5?logo=dbeaver&logoColor=ffffff&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff&style=for-the-badge)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=ffffff&style=for-the-badge)
+
+---
+
+### 🕹️ **Contributions**:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitortte/vitortte/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitortte/vitortte/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/vitortte/vitortte/output/pacman-contribution-graph.svg" />
+</picture>
