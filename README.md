@@ -2,16 +2,19 @@
 
 <p>
  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=435&lines=Software+Engineering+Student;Full-Stack+Developer;Mobile+Developer" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D27F7&width=435&lines=Backend+Software+Engineer;Payments:+Pix+and+TED;Node.js+%C2%B7+TypeScript+%C2%B7+NestJS" alt="Typing SVG" />
  </a>
 </p>
 
 ---
 
-## 👩‍💻 **About Me**
-- 🎓 Software Engineering student and Mid-level Full Stack Developer.
-- 💼 Currently working on the modernization and scalability of IoT ecosystems in the healthcare sector, handling high-load architectures for over 20,000 devices.
-- 🚀 Specialist in the JavaScript/TypeScript ecosystem, focusing on scalable architecture, Clean Code, performance, and complex end-to-end integrations.
+## 🧑‍💻 **About Me**
+- 💳 Backend Software Engineer at MB Labs, building payment infrastructure for fintechs with Node.js, TypeScript and NestJS.
+- 🏦 Working on a white-label Pix and TED platform, MB Labs' first project in the direct participation model, already in production. My focus is the Pix orchestrator: transfers, QR Code, Pix Automático, MED and DICT key management, portability and ownership claims.
+- 🧱 Day to day: idempotency, compensation and reconciliation across payment providers and core banking, SDKs with contracts separated from implementation, and Ports and Adapters.
+- 🤖 I use generative AI (LLMs and agents, with Claude Code and Cursor) in the engineering workflow, and help evolve the project's knowledge and agents workspace.
+- 🩺 Previously responsible for the technical evolution of a healthcare IoT platform with 20,000+ connected devices: Redis queues, MySQL and React Native New Architecture.
+- 🎓 Software Engineering student, graduating in December 2026.
 - 📫 How to reach me: [**vitortte@outlook.com**](mailto:vitortte@outlook.com)
 
 ---
